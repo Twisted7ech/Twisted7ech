@@ -10,4 +10,11 @@
 <i class="fa fa-html5" aria-hidden="true"></i>
 <i class="fa-brands fa-css3-alt"></i>
 <i class="fa-brands fa-square-js"></i>
+<h2>CSS3</h2>
+<h2>JavaScript</h2>
+<h2>Node.JS</h2>
+<h2>Express</h2>
+<h2>React.JS</h2>
+<h2>MongoDB</h2>
+
 
