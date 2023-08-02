@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Twisted7ech
 - 👀 I’m interested in Javascript, Automation
-- 📫 How to reach me: Whatsapp +506 6119 0591
+- 📫 How to reach me: BradCederberg@gmail.com
+- 
