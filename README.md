@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Twisted7ech
-- 👀 I’m interested in Javascript, Automation
+- 👀 I’m interested in Javascript, Automation, Audio / Video, Movies / TV, Travel, Outdoors
 - 📫 How to reach me: BradCederberg@gmail.com
 - 
