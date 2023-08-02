@@ -11,7 +11,7 @@
 
 
 <h2> Hi, I'm Brad Cederberg!</h2>
-![frink-keystrokes](https://github.com/Twisted7ech/Twisted7ech/assets/40369523/ed2d747d-3ced-4435-a27b-589017ed264e)
+![frink-keystrokes](https://github.com/Twisted7ech/Twisted7ech/assets/40369523/b1726053-24d0-40a1-aeb6-a6155a52ac0d)
 
 
 <p><em>Software Enginner at <a href="">University of </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href=""></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
