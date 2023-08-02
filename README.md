@@ -44,7 +44,8 @@ const brad = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi, <b>Please Do!</b> :)</em>
+<p><b>I love connecting with different people</b> so if you want to say hi, <b>Please Do!</b> :)</p>
+<img src="https://github.com/Twisted7ech/Twisted7ech/blob/main/handshake.gif" width="320"> 
 
 
 ---
